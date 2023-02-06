@@ -1,0 +1,4 @@
+Python is a programming language.
+It is very easy to learn compared to other languages.
+It is not as fast as C++ or Java.
+Java supports the maximum numbers of frameworks.
